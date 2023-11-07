@@ -1,5 +1,5 @@
 # kavtech_demo
 This is my repository
 <br>
-Author: Tehreem Fatima 
+Author: Tehreem Fatima (Namal University)
 
